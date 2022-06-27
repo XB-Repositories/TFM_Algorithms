@@ -1,0 +1,11 @@
+This directory contains the Tabu Search and Variable Function Search algorithms used in the Master's Thesis of Xabier Benavides. In order to execute the algorithms, please follow the following steps:
+
+- Enter the corresponding directory (TabuSearch or VariableFunctionSearch).
+
+- Compile the code using the "make" command.
+
+- Execute the algorithms using the following commands:
+
+    - Tabu Search: ./TS [Instance] [Random seed] [Tabu list size] [Number of solution evaluations]
+
+    - Variable Function Search: ./VFS [Instance] [Random seed] [Tabu list size] [Number of solution evaluations]
